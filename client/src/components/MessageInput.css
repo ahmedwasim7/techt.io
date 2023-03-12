@@ -1,0 +1,29 @@
+.MessageInput {
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+  background-color: #fff;
+  width: 90%;
+  box-shadow: 0px -1px 2px rgba(0, 0, 0, 0.2);
+}
+
+.MessageInput-input {
+  margin-top:12px;
+  flex: 1;
+  height: 2rem;
+  margin-right: 1rem;
+  padding: 0.5rem;
+  border: none;
+  border-radius: 4px;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+.MessageInput-button {
+  height: 2rem;
+  width: 4rem;
+  border: none;
+  border-radius: 4px;
+  background-color: #0077cc;
+  color: #fff;
+  cursor: pointer;
+}

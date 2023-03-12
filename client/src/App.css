@@ -1,0 +1,30 @@
+.center {
+  text-align: center;
+}
+.menu {
+  margin-top: 10px;
+  background-color: rgba(208, 65, 65, 0.893);
+  padding: 20px;
+}
+.button {
+  margin: auto;
+  width: 400px;
+  height: 40px;
+}
+.button1 {
+  margin: auto;
+  width: 400px;
+  height: 40px;
+  background-color: red;
+  color: white;
+  padding: 10px;
+}
+
+input {
+  margin-bottom: 20px;
+}
+form {
+  margin: auto;
+  margin-top: 40px;
+  width: 400px;
+}
